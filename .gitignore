@@ -1,3 +1,6 @@
 error.log
 *.log
-dir/
+/dir/   
+only ignore outer dir
+dir/    
+ignore all dir whether it is inner or outer
